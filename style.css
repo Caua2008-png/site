@@ -1,0 +1,13 @@
+table{width: 100%;
+height: 100vh;}
+td{
+    width: 5.5;
+    height: 5.5vh;
+}
+.imagem{ width: 20px;
+    height: 30px;
+background-color: rgb(77, 8, 141);}
+
+.linha{background-color: black;}
+.user{width: 10px;}
+.linha2{background-color: rgb(255, 255, 255);}
